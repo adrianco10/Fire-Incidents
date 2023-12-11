@@ -7,7 +7,7 @@ This report investigates the relationship between fire response times and socioe
 
   
 The goal of this report is to investigate and analyze the temporal relationship between fire alarm initiation time and arrival time of fire response units for fire incidents in many different wards of Toronto, with a specific focus on assessing whether there is asignificant difference in response times between wealthier and lower-income wards. However there is an opportunity to analyze more with this dataset including:
-- distances between incidents and fire stations
-- casualties by ward
-- income vs number of incidents and/or casualties
+- Distances between incidents and fire stations
+- Casualties by ward
+- Income vs number of incidents and/or casualties
 
