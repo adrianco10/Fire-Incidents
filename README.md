@@ -11,3 +11,4 @@ The goal of this report is to investigate and analyze the temporal relationship 
 - Casualties by ward
 - Income vs number of incidents and/or casualties
 
+I wrote an article containing all my original code here: https://medium.com/@cortes_10/a-study-on-the-relationship-between-average-household-income-and-fire-incidents-in-the-city-of-90307cc9afec 
